@@ -39,58 +39,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": "tabs",
-    "fields": [
-      {
-        "component": "richtext",
-        "name": "tabs",
-        "value": "",
-        "label": "Tabs",
-        "valueType": "string",
-        "multi": true,
-        "fields": [
-          {
-            "component": "text",
-            "valueType": "string",
-            "name": "title",
-            "label": "Title",
-            "value": ""
-          },
-          {
-            "component": "richtext",
-            "name": "content",
-            "value": "",
-            "label": "Content",
-            "valueType": "string"
-          },
-          {
-            "component": "reference",
-            "name": "image",
-            "label": "Icon",
-            "valueType": "string"
-          }
-        ]
-      },
-      {
-        "component": "select",
-        "name": "classes",
-        "value": "",
-        "label": "Component View",
-        "description": "Component view selection",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "horizontal",
-            "value": "tabs__horizontal"
-          },
-          {
-            "name": "vertical",
-            "value": "tabs__vertical"
-          }
-        ]
-      }
-    ]
   }
 ]
