@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p148120-e1511393.adobeaemcloud.com/bin/franklin.delivery/naveen-vedwal/tata-capital-eds/main"
+    type: "markup"
+    suffix: ".html"

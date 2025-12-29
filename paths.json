@@ -1,0 +1,10 @@
+{
+    "mappings": [
+        "/content/tata-capital-eds/:/",
+        "/content/tata-capital-eds/configuration:/.helix/config.json",
+        "/content/tata-capital-eds/metadata:/metadata.json"
+    ],
+    "includes": [
+        "/content/tata-capital-eds"
+    ]
+}
